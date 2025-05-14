@@ -33,9 +33,8 @@ Actividades:
 7. Cargar el Código en un Repositorio de GitHub
 
 Evidencia:
-![image](https://github.com/user-attachments/assets/e38fb3ff-e871-4bba-b12b-1eeb2b395308)
-![image](https://github.com/user-attachments/assets/08497fbb-8dc2-419f-9579-0508bc0a2128)
-![image](.assets/Screenshot2025-05-14103842.png)
+![image](.assets/Screenshot 2025-05-14 103842.png)
+![image](.assets/Screenshot 2025-05-14 104104.png)
 
 
 

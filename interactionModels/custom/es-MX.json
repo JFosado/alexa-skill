@@ -1,0 +1,73 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estás",
+            "di hola mundo",
+            "di hola",
+            "hola mundo"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "WhoCreatedAppIntent",
+          "samples": [
+            "Quién desarrolló esta aplicación",
+            "Quién hizo esta app",
+            "Quién creó la aplicación"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "WhatCareerIntent",
+          "samples": [
+            "Que estudia",
+            "Cuál es su carrera",
+            "Qué carrera estudia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FavoriteColorIntent",
+          "samples": [
+            "Que color le gusta mas",
+            "Dime su color favorito",
+            "Cuál es su color favorito"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FavoriteArtistIntent",
+          "samples": [
+            "Que cantante te gusta",
+            "Cual es su cantante favorito",
+            "Cuál es su grupo favorito"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "preguntas  jafa"
+    }
+  }
+}
